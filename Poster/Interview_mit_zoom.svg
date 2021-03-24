@@ -13,9 +13,12 @@
    version="1.1"
    id="svg1216"
    sodipodi:docname="interview_mit_zoom.svg"
-   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
+   inkscape:export-filename="/Users/christian/Interviews_mit_Zoom.png"
+   inkscape:export-xdpi="39"
+   inkscape:export-ydpi="39">
   <title
-     id="title18754">Interviews mit Zoom</title>
+     id="title18754">Interviews mit Zoom aufzeichnen</title>
   <metadata
      id="metadata1220">
     <rdf:RDF>
@@ -24,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Interviews mit Zoom</dc:title>
+        <dc:title>Interviews mit Zoom aufzeichnen</dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
         <dc:creator>
@@ -32,6 +35,20 @@
             <dc:title>Christian-Maximilian Steier</dc:title>
           </cc:Agent>
         </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Hochschule Kölkn - Zentrum für Lehrentwicklung</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>german</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Zoom</rdf:li>
+            <rdf:li>Aufzeichnung</rdf:li>
+            <rdf:li>Interview</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:date>24.03.2021</dc:date>
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by/4.0/">
@@ -60,11 +77,11 @@
      inkscape:window-width="1898"
      inkscape:window-height="1018"
      id="namedview1218"
-     showgrid="false"
+     showgrid="true"
      units="mm"
-     inkscape:zoom="0.66245342"
-     inkscape:cx="647.06882"
-     inkscape:cy="782.40275"
+     inkscape:zoom="1.3249068"
+     inkscape:cx="428.18551"
+     inkscape:cy="226.13723"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
@@ -518,32 +535,32 @@
        x="245.08514"
        y="1194.1827"
        style="font-size:23.6024px;stroke-width:0.983435"
-       id="tspan17776-0-2">- Die Aufzeichnung lokal und nicht in der Cloud speichern</tspan><tspan
+       id="tspan17776-0-2"> • Die Aufzeichnung lokal und nicht in der Cloud speichern</tspan><tspan
        sodipodi:role="line"
        x="245.08514"
        y="1228.4062"
        style="font-size:23.6024px;stroke-width:0.983435"
-       id="tspan18525">- Ruhige Arbeitsumgebung, die zudem gut von vorn ausgeleuchtet ist</tspan><tspan
+       id="tspan18525"> • Ruhige Arbeitsumgebung, die zudem gut von ausgeleuchtet ist</tspan><tspan
        sodipodi:role="line"
        x="245.08514"
        y="1262.6296"
        style="font-size:23.6024px;stroke-width:0.983435"
-       id="tspan18519">- Alle unnötigen Programme auf dem Aufnahmegerät ausschalten</tspan><tspan
+       id="tspan18519"> • Alle unnötigen Programme auf dem Aufnahmegerät ausschalten</tspan><tspan
        sodipodi:role="line"
        x="245.08514"
        y="1296.8531"
        style="font-size:23.6024px;stroke-width:0.983435"
-       id="tspan18521">- Lan-Kabel statt WLAN benutzen</tspan><tspan
+       id="tspan18521"> • Lan-Kabel statt WLAN benutzen</tspan><tspan
        sodipodi:role="line"
        x="245.08514"
        y="1331.0767"
        style="font-size:23.6024px;stroke-width:0.983435"
-       id="tspan18710">- Vorher Testaufnahme mit Gästen machen</tspan><tspan
+       id="tspan18710"> • Vorher Testaufnahme mit Gästen machen</tspan><tspan
        sodipodi:role="line"
        x="245.08514"
        y="1365.3002"
        style="font-size:23.6024px;stroke-width:0.983435"
-       id="tspan18523">- Bequeme Sitz-oder Stehposition einnehmen</tspan><tspan
+       id="tspan18523"> • Bequeme Sitz-oder Stehposition einnehmen</tspan><tspan
        sodipodi:role="line"
        x="245.08514"
        y="1399.5236"
@@ -635,48 +652,44 @@
      d="m 143.76556,1193.4761 c -34.81263,0 -63.03828,28.2357 -63.03828,63.0383 0,34.8228 28.22565,63.0382 63.03828,63.0382 34.81262,0 63.03828,-28.2154 63.03828,-63.0382 0,-34.8026 -28.22566,-63.0383 -63.03828,-63.0383 z m 0,27.9606 c 5.89611,0 10.67584,4.7796 10.67584,10.6757 0,5.8963 -4.77973,10.6759 -10.67584,10.6759 -5.89611,0 -10.67584,-4.7796 -10.67584,-10.6759 0,-5.8961 4.77973,-10.6757 10.67584,-10.6757 z M 158,1286 c 0,1.6845 -1.36574,3.0502 -3.05024,3.0502 h -22.36841 c -1.68449,0 -3.05023,-1.3657 -3.05023,-3.0502 v -6.1005 c 0,-1.6845 1.36574,-3.0501 3.05023,-3.0501 h 3.05023 v -16.2681 h -3.05023 c -1.68449,0 -3.05023,-1.3656 -3.05023,-3.0502 v -6.1004 c 0,-1.6845 1.36574,-3.0503 3.05023,-3.0503 h 16.26794 c 1.68449,0 3.05024,1.3658 3.05024,3.0503 v 25.4187 h 3.05023 c 1.6845,0 3.05024,1.3656 3.05024,3.0501 z"
      id="path18472"
      style="stroke-width:0.254186" />
-  <g
-     id="g18554"
-     transform="matrix(0.4782969,0,0,0.4782969,58.050412,801.57422)">
-    <text
-       xml:space="preserve"
-       style="font-size:64px;line-height:1.45;font-family:sans-serif"
-       x="329.99341"
-       y="1456.7657"
-       id="text18529"><tspan
-         sodipodi:role="line"
-         id="tspan18527"
-         x="329.99341"
-         y="1456.7657"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">ZLE</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:192px;line-height:1.45;font-family:sans-serif"
-       x="332.81384"
-       y="1497.6624"
-       id="text18533"><tspan
-         sodipodi:role="line"
-         x="332.81384"
-         y="1497.6624"
-         id="tspan18535"
-         style="font-size:42.6667px">Zentrum für </tspan><tspan
-         sodipodi:role="line"
-         x="332.81384"
-         y="1776.0624"
-         style="font-size:42.6667px"
-         id="tspan18541" /></text>
-    <text
-       xml:space="preserve"
-       style="font-size:42.6667px;line-height:1.45;font-family:sans-serif"
-       x="334.22412"
-       y="1541.1489"
-       id="text18545"><tspan
-         sodipodi:role="line"
-         id="tspan18543"
-         x="334.22412"
-         y="1541.1489"
-         style="font-size:42.6667px">Lehrentwicklung</tspan></text>
-  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:30.611px;line-height:1.45;font-family:sans-serif;stroke-width:0.478297"
+     x="215.88524"
+     y="1492.3408"
+     id="text18529"><tspan
+       sodipodi:role="line"
+       id="tspan18527"
+       x="215.88524"
+       y="1492.3408"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30.611px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.478297">ZLE</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:91.833px;line-height:1.45;font-family:sans-serif;stroke-width:0.478297"
+     x="217.23424"
+     y="1515.9015"
+     id="text18533"><tspan
+       sodipodi:role="line"
+       x="217.23424"
+       y="1515.9015"
+       id="tspan18535"
+       style="font-size:20.4074px;stroke-width:0.478297">Zentrum für </tspan><tspan
+       sodipodi:role="line"
+       x="217.23424"
+       y="1649.0593"
+       style="font-size:20.4074px;stroke-width:0.478297"
+       id="tspan18541" /></text>
+  <text
+     xml:space="preserve"
+     style="font-size:20.4074px;line-height:1.45;font-family:sans-serif;stroke-width:0.478297"
+     x="217.90877"
+     y="1538.7009"
+     id="text18545"><tspan
+       sodipodi:role="line"
+       id="tspan18543"
+       x="217.90877"
+       y="1538.7009"
+       style="font-size:20.4074px;stroke-width:0.478297">Lehrentwicklung</tspan></text>
   <g
      transform="matrix(1.4549828,0,0,1.4548317,157.30038,1477.2017)"
      id="g260"
@@ -771,9 +784,9 @@
        x="623.10339"
        y="1539.3489"
        style="font-size:16px"
-       id="tspan18708">genannt werden: <tspan
+       id="tspan18708">genannt werden:  <tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
-   id="tspan18730">Technische Hochschule Köln - ZLE</tspan>.</tspan></text>
+   id="tspan18730">Technische Hochschule Köln - ZLE</tspan></tspan></text>
   <path
      d="m 648.35344,704.96901 h -13.58402 c -1.24347,0 -2.25143,1.00796 -2.25143,2.25145 v 13.58399 c 0,1.24349 1.00796,2.25145 2.25143,2.25145 h 13.58402 c 1.24346,0 2.25144,-1.00796 2.25144,-2.25145 v -13.58399 c 0,-1.24349 -1.00798,-2.25145 -2.25144,-2.25145 z m 8.92098,1.77572 -5.16231,3.56086 v 7.41374 l 5.16231,3.55614 c 0.99855,0.68769 2.3739,-0.0141 2.3739,-1.2152 v -12.10033 c 0,-1.19638 -1.37065,-1.90288 -2.3739,-1.21521 z"
      id="path17630-6"
