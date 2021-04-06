@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 1122.5197 1587.4016"
+   width="297mm"
+   height="420mm"
+   version="1.1"
+   id="svg1216"
+   sodipodi:docname="planung_audio-podcast_4-5.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
+   inkscape:export-filename=""
+   inkscape:export-xdpi="39"
+   inkscape:export-ydpi="39">
+  <path
+     id="path856-0-71-64-4-4-3"
+     class="shp4"
+     d="M 44.338426,1487.9761 H 1076.5964 v 58.8859 H 44.338426 Z"
+     style="opacity:0.502;fill:#ffffff;stroke-width:0.370743" />
+  <g
+     transform="matrix(1.4549828,0,0,1.4548317,-216.23061,1486.5433)"
+     id="g260"
+     inkscape:export-filename="/mnt/hgfs/Bov/Documents/Work/2007/cc/identity/srr buttons/big/by.png"
+     inkscape:export-xdpi="300.23013"
+     inkscape:export-ydpi="300.23013">
+    <path
+       id="path3817_1_"
+       nodetypes="ccccccc"
+       d="m 181.96579,0.51074 114.06396,0.20264 c 1.59375,0 3.01758,-0.23633 3.01758,3.18066 l -0.13965,37.56689 H 179.08737 V 3.75439 c 0,-1.68505 0.16309,-3.24365 2.87842,-3.24365 z"
+       style="fill:#aab2ab" />
+    <path
+       d="m 297.29636,0 h -116.229 c -1.24658,0 -2.26123,1.01416 -2.26123,2.26074 v 39.49658 c 0,0.28174 0.229,0.51025 0.51074,0.51025 h 119.73047 c 0.28174,0 0.51074,-0.22852 0.51074,-0.51025 V 2.26074 C 299.55807,1.01416 298.54343,0 297.29636,0 Z M 181.06735,1.02148 h 116.229 c 0.68408,0 1.24023,0.55566 1.24023,1.23926 0,0 0,15.94824 0,27.44971 h -83.34424 c -3.04492,5.50586 -8.91113,9.24414 -15.64355,9.24414 -6.73535,0 -12.6001,-3.73486 -15.64355,-9.24414 h -4.07764 c 0,-11.50146 0,-27.44971 0,-27.44971 1e-5,-0.68359 0.55616,-1.23926 1.23975,-1.23926 z"
+       id="path263" />
+    <g
+       enable-background="new    "
+       id="g265">
+      <path
+         d="m 253.07761,32.95605 c 0.31738,0 0.60742,0.02832 0.87012,0.08398 0.26172,0.05566 0.48535,0.14746 0.67285,0.27539 0.18652,0.12695 0.33203,0.29688 0.43457,0.50781 0.10254,0.21191 0.1543,0.47266 0.1543,0.78418 0,0.33594 -0.0762,0.61523 -0.22949,0.83887 -0.15234,0.22461 -0.37891,0.40723 -0.67773,0.55078 0.41211,0.11816 0.71973,0.3252 0.92285,0.62109 0.20312,0.29589 0.30469,0.65234 0.30469,1.06934 0,0.33594 -0.0654,0.62695 -0.19629,0.87305 -0.13086,0.24512 -0.30762,0.44629 -0.52832,0.60156 -0.22168,0.15625 -0.47461,0.27148 -0.75781,0.3457 -0.28418,0.0752 -0.5752,0.1123 -0.875,0.1123 H 249.936 v -6.66406 h 3.14161 z m -0.1875,2.69532 c 0.26172,0 0.47656,-0.0625 0.64551,-0.18652 0.16797,-0.12402 0.25195,-0.3252 0.25195,-0.60449 0,-0.15527 -0.0283,-0.2832 -0.084,-0.38184 -0.0566,-0.09961 -0.13086,-0.17676 -0.22461,-0.2334 -0.0937,-0.05566 -0.20117,-0.09473 -0.32227,-0.11621 -0.1211,-0.02148 -0.24805,-0.03223 -0.37793,-0.03223 h -1.37402 v 1.55469 z m 0.0859,2.82812 c 0.14355,0 0.28027,-0.01367 0.41113,-0.04199 0.13086,-0.02832 0.24609,-0.0752 0.34668,-0.13965 0.0996,-0.06543 0.17871,-0.1543 0.23828,-0.2666 0.0596,-0.11133 0.0889,-0.25488 0.0889,-0.42871 0,-0.3418 -0.0967,-0.58594 -0.29004,-0.73242 -0.19336,-0.14551 -0.44922,-0.21875 -0.7666,-0.21875 h -1.59961 v 1.82812 z"
+         id="path267"
+         style="fill:#ffffff" />
+      <path
+         d="m 255.78854,32.95605 h 1.64355 l 1.56055,2.63184 1.55078,-2.63184 h 1.63379 l -2.47363,4.10645 v 2.55762 h -1.46875 v -2.59473 z"
+         id="path269"
+         style="fill:#ffffff" />
+    </g>
+    <g
+       id="g5908_1_"
+       transform="matrix(0.872921,0,0,0.872921,50.12536,143.2144)">
+      <path
+         id="path5906_1_"
+         cx="296.35416"
+         ry="22.939548"
+         cy="264.3577"
+         type="arc"
+         rx="22.939548"
+         d="m 186.90065,-141.46002 c 0.006,8.68079 -7.02786,15.7215 -15.70808,15.72711 -8.68022,0.006 -15.72206,-7.02734 -15.7271,-15.70807 0,-0.006 0,-0.0123 0,-0.019 -0.005,-8.68079 7.02786,-15.7215 15.70808,-15.72656 8.68135,-0.006 15.72206,7.02734 15.7271,15.70813 0,0.006 0,0.0123 0,0.0184 z"
+         style="fill:#ffffff" />
+      <g
+         id="g5706_1_"
+         transform="translate(-289.6157,99.0653)">
+        <path
+           id="path5708_1_"
+           d="m 473.57574,-253.32751 c 3.48541,3.48541 5.22839,7.75391 5.22839,12.80219 0,5.04938 -1.71277,9.27203 -5.13831,12.66791 -3.63531,3.5766 -7.93182,5.36432 -12.88947,5.36432 -4.89777,0 -9.11987,-1.77319 -12.66513,-5.31952 -3.54581,-3.54584 -5.31845,-7.78302 -5.31845,-12.71271 0,-4.92859 1.77264,-9.19598 5.31845,-12.80219 3.4552,-3.48651 7.67728,-5.22949 12.66513,-5.22949 5.0483,-10e-6 9.31404,1.74297 12.79939,5.22949 z m -23.11798,2.34484 c -2.94672,2.97638 -4.41953,6.46289 -4.41953,10.46234 0,3.99835 1.45828,7.45526 4.37424,10.37067 2.9165,2.9165 6.38849,4.37421 10.41705,4.37421 4.02856,0 7.53015,-1.47223 10.50653,-4.4184 2.82593,-2.73645 4.23944,-6.17706 4.23944,-10.32648 0,-4.11804 -1.43646,-7.61346 -4.30768,-10.48468 -2.87067,-2.87067 -6.34991,-4.30658 -10.43829,-4.30658 -4.0884,1e-5 -7.54638,1.44318 -10.37176,4.32892 z m 7.75449,8.70319 c -0.45029,-0.98169 -1.1243,-1.47284 -2.02322,-1.47284 -1.58917,0 -2.38345,1.07007 -2.38345,3.20911 0,2.13953 0.79428,3.2085 2.38345,3.2085 1.04938,0 1.79892,-0.52075 2.24866,-1.56451 l 2.20276,1.17297 c -1.04993,1.86548 -2.62509,2.79846 -4.72549,2.79846 -1.6199,0 -2.91763,-0.4967 -3.89206,-1.48901 -0.9761,-0.99341 -1.46274,-2.36273 -1.46274,-4.10852 0,-1.71503 0.50229,-3.07654 1.50748,-4.08502 1.00519,-1.00854 2.25702,-1.51257 3.75781,-1.51257 2.22012,0 3.80981,0.87488 4.77081,2.62286 z m 10.36337,0 c -0.45087,-0.98169 -1.11145,-1.47284 -1.98242,-1.47284 -1.62103,0 -2.43213,1.07007 -2.43213,3.20911 0,2.13953 0.8111,3.2085 2.43213,3.2085 1.05109,0 1.78717,-0.52075 2.20728,-1.56451 l 2.25201,1.17297 c -1.04828,1.86548 -2.62122,2.79846 -4.71771,2.79846 -1.61768,0 -2.9126,-0.4967 -3.88647,-1.48901 -0.97217,-0.99341 -1.45935,-2.36273 -1.45935,-4.10852 0,-1.71503 0.49445,-3.07654 1.48285,-4.08502 0.98785,-1.00854 2.2453,-1.51257 3.7735,-1.51257 2.21619,0 3.80365,0.87488 4.76129,2.62286 z" />
+      </g>
+    </g>
+    <g
+       id="g275">
+      <circle
+         cx="255.55124"
+         cy="15.31348"
+         r="10.80664"
+         id="circle277"
+         style="fill:#ffffff" />
+      <g
+         id="g279">
+        <path
+           d="m 258.67819,12.18701 c 0,-0.4165 -0.33789,-0.75391 -0.75293,-0.75391 h -4.77344 c -0.41504,0 -0.75293,0.3374 -0.75293,0.75391 v 4.77295 h 1.33105 v 5.65186 h 3.61719 v -5.65186 h 1.33105 v -4.77295 z"
+           id="path281" />
+        <circle
+           cx="255.53854"
+           cy="9.1723604"
+           r="1.63281"
+           id="circle283" />
+      </g>
+      <path
+         clip-rule="evenodd"
+         d="m 255.5239,3.40723 c -3.23242,0 -5.96875,1.12793 -8.20801,3.38379 -2.29785,2.3335 -3.44629,5.0957 -3.44629,8.28467 0,3.18897 1.14844,5.93164 3.44629,8.22656 2.29785,2.29443 5.03418,3.44189 8.20801,3.44189 3.21289,0 5.99805,-1.15625 8.35352,-3.47119 2.21973,-2.19727 3.33008,-4.92969 3.33008,-8.19727 0,-3.26758 -1.12988,-6.02881 -3.3877,-8.28467 -2.25977,-2.25585 -5.02442,-3.38378 -8.2959,-3.38378 z m 0.0293,2.09961 c 2.64844,0 4.89746,0.93408 6.74707,2.80127 1.86914,1.84717 2.80371,4.10303 2.80371,6.76758 0,2.68359 -0.91504,4.91064 -2.74512,6.68018 -1.92871,1.90625 -4.19629,2.85889 -6.80566,2.85889 -2.61035,0 -4.85938,-0.94287 -6.74707,-2.82959 -1.88965,-1.88672 -2.83301,-4.12305 -2.83301,-6.70947 0,-2.58691 0.9541,-4.84229 2.8623,-6.76758 1.83009,-1.8672 4.06934,-2.80128 6.71778,-2.80128 z"
+         id="path285"
+         style="fill-rule:evenodd" />
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:21.3333px;line-height:1.45;font-family:sans-serif"
+     x="267.9223"
+     y="1509.7917"
+     id="text1354"><tspan
+       sodipodi:role="line"
+       x="267.9223"
+       y="1509.7917"
+       id="tspan1358"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:Arial;-inkscape-font-specification:Arial">Dieses Werk steht unter der CC BY 4.0-Lizenz. Der Name des Urhebers soll bei einer </tspan><tspan
+       sodipodi:role="line"
+       x="267.9223"
+       y="1540.972"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:Arial;-inkscape-font-specification:Arial"
+       id="tspan1366">Weiterverwendung wie folgt genannt werden:  <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+   id="tspan1360">Christian-Maximilian Steier</tspan></tspan></text>
+  <title
+     id="title1535">Planungshilfe für Audio-Podcasts</title>
+  <metadata
+     id="metadata1220">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Planungshilfe für Audio-Podcasts</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Christian-Maximilian Steier</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>german</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Podcast</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:date>05.04.2021</dc:date>
+        <dc:description>Brainstorming Inhalt und Musik/Effekte</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#eeeeee"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1895"
+     inkscape:window-height="1018"
+     id="namedview1218"
+     showgrid="false"
+     units="mm"
+     inkscape:zoom="0.5894754"
+     inkscape:cx="211.7317"
+     inkscape:cy="1210.2241"
+     inkscape:window-x="-31"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1216"
+     inkscape:document-rotation="0"
+     showguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid6557" />
+  </sodipodi:namedview>
+  <defs
+     id="defs837">
+    <rect
+       x="-110"
+       y="360"
+       width="1240"
+       height="220"
+       id="rect18305" />
+    <style
+       id="style7045">.cls-1{fill:#c60c0f;}.cls-2{fill:#ea5b0c;}.cls-3{fill:#b62584;}</style>
+  </defs>
+  <style
+     id="style839">
+		tspan { white-space:pre }
+		.txt0 { font-size: 268px;line-height: 14px;fill: #0b0c0c;font-family: &quot;Font Awesome&quot; } 
+		.txt1 { font-size: 90px;line-height: 14px;fill: #ffffff;font-family: &quot;Font Awesome&quot; } 
+		.txt2 { font-size: 80px;fill: #000000;font-weight: bold;font-family: &quot;Helvetica Neue&quot; } 
+		.txt3 { font-size: 123px;line-height: 152px;fill: #000000;font-weight: bold;font-family: &quot;Helvetica Neue&quot; } 
+		.shp4 { opacity: 0.502;fill: #ffffff } 
+		.shp5 { fill: none;stroke: #85994b;stroke-linecap:square;stroke-width: 8 } 
+		.txt6 { font-size: 100px;fill: #000000;font-weight: bold;font-family: &quot;Helvetica Neue&quot; } 
+		.txt7 { font-size: 34px;fill: #000000;font-weight: bold;font-family: &quot;Helvetica Neue&quot; } 
+		.txt8 { font-size: 48px;fill: #005ea5;font-weight: bold;font-family: &quot;Helvetica Neue&quot; } 
+		.txt9 { font-size: 48px;fill: #0059a5;font-weight: bold;font-family: &quot;Helvetica Neue&quot; } 
+		.shp10 { fill: #ffffff } 
+		.txt11 { font-size: 200px;line-height: 14px;fill: #28a197;font-family: &quot;Font Awesome&quot; } 
+		.shp12 { opacity: 0.467;fill: #ffffff } 
+		.txt13 { font-size: 135px;line-height: 14px;fill: #f47738;font-family: &quot;Font Awesome&quot; } 
+		.txt14 { font-size: 80px;fill: #b58840;font-weight: bold;font-family: &quot;Helvetica Neue&quot; } 
+		.txt15 { font-size: 64px;fill: #28a197;font-weight: bold;font-family: &quot;Helvetica Neue&quot; } 
+		.txt16 { font-size: 60px;fill: #f47738;font-weight: bold;font-family: &quot;Helvetica Neue&quot; } 
+		.txt17 { font-size: 82px;fill: #333333;font-weight: bold;font-family: &quot;Helvetica Neue&quot; } 
+		.txt18 { font-size: 48px;fill: #28a197;font-weight: bold;font-family: &quot;Helvetica Neue&quot; } 
+		.shp19 { fill: none;stroke: #28a197;stroke-linecap:square;stroke-width: 4 } 
+		.txt20 { font-size: 235px;line-height: 14px;fill: #333333;font-family: &quot;Font Awesome&quot; } 
+		.shp21 { fill: #f47738 } 
+		.shp22 { fill: #85994b } 
+		.shp23 { fill: #28a197 } 
+		.shp24 { fill: #b58840 } 
+		.shp25 { fill: #ffbf47 } 
+		.txt26 { font-size: 124px;fill: #85994b;font-weight: bold;font-family: &quot;Helvetica Neue&quot; } 
+		.shp27 { fill: #df3034 } 
+		.shp28 { fill: #844789 } 
+		.shp29 { fill: #000206 } 
+		.shp30 { fill: #131614 } 
+		.shp31 { fill: #c53e78 } 
+		.shp32 { fill: #e47448 } 
+		.shp33 { fill: #768f51 } 
+		.shp34 { fill: #aab2ab } 
+		.shp35 { fill: #000000 } 
+		.txt36 { font-size: 12px;line-height: 18px;fill: #000000;font-family: &quot;Helvetica Neue&quot; } 
+	</style>
+  <use
+     id="background"
+     href="#img1"
+     transform="translate(43,49)"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <text
+     xml:space="preserve"
+     style="font-size:125.333px;line-height:1.45;font-family:sans-serif;stroke-width:0.72335"
+     x="78.952934"
+     y="140.65111"
+     id="text6531"><tspan
+       sodipodi:role="line"
+       id="tspan6529"
+       x="78.952934"
+       y="140.65111"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:125.333px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.72335">Planungshilfe </tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:112px;line-height:1.45;font-family:sans-serif;stroke-width:0.706064"
+     x="85.088722"
+     y="274.39038"
+     id="text6531-4"
+     transform="scale(0.976102,1.0244831)"><tspan
+       sodipodi:role="line"
+       id="tspan6529-3"
+       x="85.088722"
+       y="274.39038"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:112px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.706064">Audio-Podcast</tspan></text>
+  <path
+     id="path856-0-71-64-4"
+     class="shp4"
+     d="M 40,350 H 1080 V 516.83569 H 40 Z"
+     style="opacity:0.502;fill:#ffffff;stroke-width:0.626374" />
+  <path
+     d="m 1040.2775,139.72251 h -7.0277 c -3.8829,0 -7.0278,3.1449 -7.0278,7.02777 v 21.08324 c 0,32.85472 -28.32628,59.21752 -61.83983,55.94953 C 935.17309,220.93254 913.778,194.67511 913.778,165.32988 v -18.5796 c 0,-3.88287 -3.14493,-7.02777 -7.02776,-7.02777 h -7.02775 c -3.88283,0 -7.02777,3.1449 -7.02777,7.02777 v 17.63962 c 0,39.37298 28.09784,74.4722 66.76366,79.80446 v 14.9999 h -24.59712 c -3.88288,0 -7.02778,3.14496 -7.02778,7.02778 v 7.0276 c 0,3.88299 3.1449,7.02778 7.02778,7.02778 h 70.27754 c 3.8828,0 7.0278,-3.14479 7.0278,-7.02778 v -7.0276 c 0,-3.88282 -3.145,-7.02778 -7.0278,-7.02778 h -24.59718 v -14.8328 c 37.64678,-5.16551 66.76358,-37.48001 66.76358,-76.52793 v -21.08325 c 0,-3.88287 -3.145,-7.02777 -7.0277,-7.02777 z M 970,210 c 23.2882,0 42.1666,-18.87828 42.1666,-42.16648 h -37.47997 c -2.5871,0 -4.68663,-1.57247 -4.68663,-3.51389 v -7.02775 c 0,-1.94141 2.09953,-3.51388 4.68663,-3.51388 h 37.47997 v -14.05549 h -37.47997 c -2.5871,0 -4.68663,-1.57247 -4.68663,-3.51389 v -7.02772 c 0,-1.94141 2.09953,-3.5139 4.68663,-3.5139 h 37.47997 v -14.05548 h -37.47997 c -2.5871,0 -4.68663,-1.57247 -4.68663,-3.51388 v -7.02776 c 0,-1.94141 2.09953,-3.51389 4.68663,-3.51389 h 37.47997 c 0,-23.288186 -18.8784,-42.166494 -42.1666,-42.166494 -23.28822,0 -42.16652,18.878308 -42.16652,42.166494 v 70.27753 C 927.83348,191.12172 946.71178,210 970,210 Z"
+     id="path17938"
+     style="stroke-width:0.439234" />
+  <text
+     xml:space="preserve"
+     id="text18303"
+     style="line-height:1.45;font-family:sans-serif;font-size:192px;white-space:pre;shape-inside:url(#rect18305);" />
+  <circle
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.4992;stroke-linejoin:round"
+     id="path978"
+     cx="103.98057"
+     cy="427.88397"
+     r="43.739998" />
+  <text
+     xml:space="preserve"
+     style="font-size:69.984px;line-height:1.45;font-family:sans-serif;stroke-width:0.729"
+     x="83.546806"
+     y="451.26273"
+     id="text982"><tspan
+       sodipodi:role="line"
+       id="tspan980"
+       x="83.546806"
+       y="451.26273"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:69.984px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.729">4</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:69.984px;line-height:0;font-family:sans-serif;stroke-width:0.729"
+     x="164.43663"
+     y="416.52505"
+     id="text986"><tspan
+       style="font-size:69.984px;line-height:0.8;stroke-width:0.729"
+       sodipodi:role="line"
+       id="tspan1419"
+       x="164.43663"
+       y="416.52505">Brainstorming</tspan><tspan
+       sodipodi:role="line"
+       x="164.43663"
+       y="495.25705"
+       style="font-size:69.984px;line-height:1.45;stroke-width:0.729"
+       id="tspan1395">zum Inhalt</tspan></text>
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.94953;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect988"
+     width="1041.2772"
+     height="335.25458"
+     x="40.074192"
+     y="524.16455" />
+  <text
+     xml:space="preserve"
+     style="font-size:30.834px;line-height:1.1;font-family:sans-serif;stroke-width:0.963562"
+     x="705.86023"
+     y="395.97363"
+     id="text992"
+     transform="scale(0.9635624,1.0378155)"><tspan
+       sodipodi:role="line"
+       x="705.86023"
+       y="395.97363"
+       style="font-size:30.834px;stroke-width:0.963562"
+       id="tspan1073">Wie lang soll der Podcast </tspan><tspan
+       sodipodi:role="line"
+       x="705.86023"
+       y="429.89102"
+       style="font-size:30.834px;stroke-width:0.963562"
+       id="tspan1430">werden? Welchen Inhalt </tspan><tspan
+       sodipodi:role="line"
+       x="705.86023"
+       y="463.80844"
+       style="font-size:30.834px;stroke-width:0.963562"
+       id="tspan1432">soll er vermitteln?</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:192px;line-height:1.45;font-family:sans-serif"
+     x="-50"
+     y="1130"
+     id="text1371"><tspan
+       sodipodi:role="line"
+       id="tspan1369"
+       x="-50"
+       y="1130" /></text>
+  <path
+     id="path856-0-71-64-4-6"
+     class="shp4"
+     d="M 40,925.15534 H 1080 V 1096.9228 H 40 Z"
+     style="opacity:0.502;fill:#ffffff;stroke-width:0.635565" />
+  <circle
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.4992;stroke-linejoin:round"
+     id="path978-7"
+     cx="103.98058"
+     cy="996.80676"
+     r="43.739998" />
+  <text
+     xml:space="preserve"
+     style="font-size:69.984px;line-height:1.45;font-family:sans-serif;stroke-width:0.729"
+     x="83.546799"
+     y="1020.1855"
+     id="text982-0"
+     inkscape:transform-center-x="1.8518519"
+     inkscape:transform-center-y="-9.2592594"><tspan
+       sodipodi:role="line"
+       id="tspan980-7"
+       x="83.546799"
+       y="1020.1855"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:69.984px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.729">5</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:69.984px;line-height:0;font-family:sans-serif;stroke-width:0.729"
+     x="164.43663"
+     y="985.44788"
+     id="text986-3"><tspan
+       style="font-size:69.984px;line-height:0.8;stroke-width:0.729"
+       sodipodi:role="line"
+       id="tspan1419-3"
+       x="164.43663"
+       y="985.44788">Brainstorming</tspan><tspan
+       sodipodi:role="line"
+       x="164.43663"
+       y="1064.1799"
+       style="font-size:69.984px;line-height:1.45;stroke-width:0.729"
+       id="tspan1395-2">zum Audio</tspan></text>
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.80115;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect988-1"
+     width="1041.4257"
+     height="315.40939"
+     x="39.999985"
+     y="1105.0132" />
+  <text
+     xml:space="preserve"
+     style="font-size:30.834px;line-height:1.1;font-family:sans-serif;stroke-width:0.963562"
+     x="705.86023"
+     y="924.89496"
+     id="text992-4"
+     transform="scale(0.9635624,1.0378155)"><tspan
+       sodipodi:role="line"
+       x="705.86023"
+       y="924.89496"
+       style="font-size:30.834px;stroke-width:0.963562"
+       id="tspan1507">Welche Musik oder </tspan><tspan
+       sodipodi:role="line"
+       x="705.86023"
+       y="958.81238"
+       style="font-size:30.834px;stroke-width:0.963562"
+       id="tspan1509">Effekte könnten passen? </tspan><tspan
+       sodipodi:role="line"
+       x="705.86023"
+       y="992.72974"
+       style="font-size:30.834px;stroke-width:0.963562"
+       id="tspan1511">Soll die Musik/der Effekt </tspan><tspan
+       sodipodi:role="line"
+       x="705.86023"
+       y="1026.6472"
+       style="font-size:30.834px;stroke-width:0.963562"
+       id="tspan1579">einen Zweck erfüllen?</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:192px;line-height:1.45;font-family:sans-serif"
+     x="1388.8398"
+     y="515.79095"
+     id="text1567"><tspan
+       sodipodi:role="line"
+       id="tspan1565"
+       x="1388.8398"
+       y="515.79095" /></text>
+  <text
+     xml:space="preserve"
+     style="font-size:192px;line-height:1.45;font-family:sans-serif"
+     x="566.48431"
+     y="1781.6487"
+     id="text901"><tspan
+       sodipodi:role="line"
+       id="tspan899"
+       x="566.48431"
+       y="1781.6487"></tspan></text>
+</svg>
