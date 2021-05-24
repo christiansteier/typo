@@ -12,7 +12,7 @@
    height="420mm"
    version="1.1"
    id="svg1216"
-   sodipodi:docname="interview_mit_zoom.svg"
+   sodipodi:docname="Interview_mit_zoom_aufzeichnen.svg"
    inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
    inkscape:export-filename=""
    inkscape:export-xdpi="39"
@@ -74,18 +74,20 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1898"
-     inkscape:window-height="1018"
+     inkscape:window-width="1415"
+     inkscape:window-height="855"
      id="namedview1218"
-     showgrid="true"
+     showgrid="false"
      units="mm"
-     inkscape:zoom="1.3249068"
-     inkscape:cx="741.81159"
-     inkscape:cy="1372.6329"
-     inkscape:window-x="0"
+     inkscape:zoom="0.39119731"
+     inkscape:cx="568.08107"
+     inkscape:cy="756.88614"
+     inkscape:window-x="41"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg1216">
+     inkscape:current-layer="svg1216"
+     inkscape:document-rotation="0"
+     showguides="false">
     <inkscape:grid
        type="xygrid"
        id="grid6557" />
@@ -146,7 +148,7 @@
      id="path858-7"
      class="shp4"
      d="M 40,40 H 1080 V 1420 H 40 Z"
-     style="opacity:0.502;fill:#ea5a00;fill-opacity:1;stroke-width:1.80149" />
+     style="opacity:0.502;fill:#6d786f;fill-opacity:1;stroke-width:1.80149" />
   <use
      id="background"
      href="#img1"
@@ -204,7 +206,7 @@
      id="path52-6" />
   <path
      inkscape:connector-curvature="0"
-     style="opacity:1;mix-blend-mode:normal;fill:#e95a00;fill-opacity:0.501961;stroke-width:0.474589"
+     style="opacity:1;mix-blend-mode:normal;fill:#a1aaa3;fill-opacity:1;stroke-width:0.474589"
      d="m 960.04171,179.29662 c 0,2.09614 -1.72353,3.89282 -3.44708,3.89282 -2.01079,0 -3.73432,-1.79668 -3.73432,-3.89282 0,-2.09613 1.72353,-3.59337 3.73432,-3.59337 1.72355,0 3.44708,1.49724 3.44708,3.59337 z m -14.65027,-3.59337 c -2.0109,0 -3.44717,1.79669 -3.44717,3.59337 0,2.09614 1.72363,3.89282 3.44717,3.89282 2.01089,0 3.73443,-1.79668 3.73443,-3.89282 -0.28725,-2.09613 -1.72354,-3.59337 -3.73443,-3.59337 z m -11.49043,0 c -2.01082,0 -3.73436,1.79669 -3.73436,3.59337 0,2.09614 1.72354,3.89282 3.73436,3.89282 2.01087,0 3.7344,-1.79668 3.7344,-3.89282 0,-2.09613 -1.72353,-3.59337 -3.7344,-3.59337 z"
      id="path52" />
   <g
@@ -550,12 +552,12 @@
        x="245.08514"
        y="1296.8531"
        style="font-size:23.6024px;stroke-width:0.983435"
-       id="tspan18521"> • Lan-Kabel statt WLAN benutzen</tspan><tspan
+       id="tspan18521"> • Der Hintergrund sollte ablenkungsfreie mit wenig Kontrasten sein</tspan><tspan
        sodipodi:role="line"
        x="245.08514"
        y="1331.0767"
        style="font-size:23.6024px;stroke-width:0.983435"
-       id="tspan18710"> • Vorher eine Testaufnahme mit Gästen machen</tspan><tspan
+       id="tspan18710"> • Mit Gästen zu Beginn einen Lautstärkenabgleich machen</tspan><tspan
        sodipodi:role="line"
        x="245.08514"
        y="1365.3002"
