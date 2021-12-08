@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 1122.5197 1587.4016"
    width="297mm"
    height="420mm"
    version="1.1"
    id="svg1216"
    sodipodi:docname="planung_audio-podcast_1-3.svg"
-   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
    inkscape:export-filename=""
    inkscape:export-xdpi="39"
-   inkscape:export-ydpi="39">
+   inkscape:export-ydpi="39"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
      id="title913">Planungshilfe für Audio-Podcasts </title>
   <metadata
@@ -81,14 +81,16 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="0.62"
-     inkscape:cx="586.48973"
-     inkscape:cy="1256.2516"
+     inkscape:cx="483.87097"
+     inkscape:cy="1390.3226"
      inkscape:window-x="336"
-     inkscape:window-y="23"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg1216"
      inkscape:document-rotation="0"
-     showguides="true">
+     showguides="true"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm">
     <inkscape:grid
        type="xygrid"
        id="grid6557" />
@@ -184,13 +186,13 @@
   <path
      id="path856-0-71-64-4"
      class="shp4"
-     d="M 40,356.23255 H 1080 V 708 H 40 Z"
-     style="opacity:0.502;fill:#ffffff;stroke-width:0.909531" />
+     d="M 40,358.23255 H 1080 V 702.00001 H 40 Z"
+     style="opacity:0.502;fill:#ffffff;stroke-width:0.899129" />
   <path
      id="path856-0-71-64-4-1"
      class="shp4"
-     d="m 40,754 h 1040 v 320 H 40 Z"
-     style="opacity:0.502;fill:#ffffff;stroke-width:0.867487" />
+     d="M 41.612913,735.87098 H 1081.6129 V 1102.6452 H 41.612913 Z"
+     style="opacity:0.502;fill:#ffffff;stroke-width:0.928726" />
   <path
      d="m 1040.2775,139.72251 h -7.0277 c -3.8829,0 -7.0278,3.1449 -7.0278,7.02777 v 21.08324 c 0,32.85472 -28.32628,59.21752 -61.83983,55.94953 C 935.17309,220.93254 913.778,194.67511 913.778,165.32988 v -18.5796 c 0,-3.88287 -3.14493,-7.02777 -7.02776,-7.02777 h -7.02775 c -3.88283,0 -7.02777,3.1449 -7.02777,7.02777 v 17.63962 c 0,39.37298 28.09784,74.4722 66.76366,79.80446 v 14.9999 h -24.59712 c -3.88288,0 -7.02778,3.14496 -7.02778,7.02778 v 7.0276 c 0,3.88299 3.1449,7.02778 7.02778,7.02778 h 70.27754 c 3.8828,0 7.0278,-3.14479 7.0278,-7.02778 v -7.0276 c 0,-3.88282 -3.145,-7.02778 -7.0278,-7.02778 h -24.59718 v -14.8328 c 37.64678,-5.16551 66.76358,-37.48001 66.76358,-76.52793 v -21.08325 c 0,-3.88287 -3.145,-7.02777 -7.0277,-7.02777 z M 970,210 c 23.2882,0 42.1666,-18.87828 42.1666,-42.16648 h -37.47997 c -2.5871,0 -4.68663,-1.57247 -4.68663,-3.51389 v -7.02775 c 0,-1.94141 2.09953,-3.51388 4.68663,-3.51388 h 37.47997 v -14.05549 h -37.47997 c -2.5871,0 -4.68663,-1.57247 -4.68663,-3.51389 v -7.02772 c 0,-1.94141 2.09953,-3.5139 4.68663,-3.5139 h 37.47997 v -14.05548 h -37.47997 c -2.5871,0 -4.68663,-1.57247 -4.68663,-3.51388 v -7.02776 c 0,-1.94141 2.09953,-3.51389 4.68663,-3.51389 h 37.47997 c 0,-23.288186 -18.8784,-42.166494 -42.1666,-42.166494 -23.28822,0 -42.16652,18.878308 -42.16652,42.166494 v 70.27753 C 927.83348,191.12172 946.71178,210 970,210 Z"
      id="path17938"
@@ -198,7 +200,7 @@
   <text
      xml:space="preserve"
      id="text18303"
-     style="line-height:1.45;font-family:sans-serif;font-size:192px;white-space:pre;shape-inside:url(#rect18305);" />
+     style="line-height:1.45;font-family:sans-serif;font-size:192px;white-space:pre;shape-inside:url(#rect18305)" />
   <g
      transform="matrix(1.4549828,0,0,1.4548317,-213.31341,1485.0725)"
      id="g260"
@@ -300,12 +302,12 @@
        y="454.74728"
        style="font-size:69.984px;stroke-width:0.729">Zweck</tspan></text>
   <rect
-     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.58281;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.55818;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect988"
-     width="520.00006"
-     height="351.76746"
-     x="560"
-     y="356.23254" />
+     width="524.82227"
+     height="343.75922"
+     x="557.16956"
+     y="358.24078" />
   <text
      xml:space="preserve"
      style="font-size:32px;line-height:1.1;font-family:sans-serif"
@@ -340,139 +342,135 @@
   <circle
      style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.4992;stroke-linejoin:round"
      id="path978-0"
-     cx="105.78064"
-     cy="813.88397"
+     cx="107.39355"
+     cy="795.75494"
      r="43.739998" />
   <text
      xml:space="preserve"
      style="font-size:69.984px;line-height:1.45;font-family:sans-serif;stroke-width:0.729"
-     x="85.346863"
-     y="837.2627"
+     x="86.95977"
+     y="819.13367"
      id="text982-0"><tspan
        sodipodi:role="line"
        id="tspan980-6"
-       x="85.346863"
-       y="837.2627"
+       x="86.95977"
+       y="819.13367"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:69.984px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.729">2</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:69.984px;line-height:1.45;font-family:sans-serif;stroke-width:0.729"
-     x="164.0885"
-     y="838.74731"
+     x="165.70142"
+     y="820.61829"
      id="text986-2"><tspan
        sodipodi:role="line"
        id="tspan984-4"
-       x="164.0885"
-       y="838.74731"
+       x="165.70142"
+       y="820.61829"
        style="font-size:69.984px;stroke-width:0.729">Zielgruppe</tspan></text>
   <rect
-     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.41721;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.66973;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect988-7"
-     width="520"
-     height="320"
-     x="560"
-     y="754" />
+     width="523.21454"
+     height="366.7742"
+     x="558.39838"
+     y="735.87097" />
   <text
      xml:space="preserve"
-     style="font-size:32px;line-height:1.1;font-family:sans-serif"
+     style="font-size:32px;line-height:1.1;font-family:sans-serif;white-space:pre;inline-size:493.505"
      x="57.76355"
      y="919.91052"
-     id="text992-4"><tspan
-       sodipodi:role="line"
+     id="text992-4"
+     transform="translate(1.6129129,-18.12902)"><tspan
        x="57.76355"
        y="919.91052"
-       id="tspan1039-8"
-       style="font-size:32px">Wer wird das Publikum sein?</tspan><tspan
-       sodipodi:role="line"
+       id="tspan144585">Wer wird das Publikum sein?
+</tspan><tspan
        x="57.76355"
-       y="955.11053"
-       style="font-size:32px"
-       id="tspan1151">Was ist über die Zielgruppe </tspan><tspan
-       sodipodi:role="line"
+       y="955.11055"
+       id="tspan144587">Was weiß das Publikum </tspan><tspan
        x="57.76355"
-       y="990.31055"
-       style="font-size:32px"
-       id="tspan1161">bekannt? Was weiß die </tspan><tspan
-       sodipodi:role="line"
+       y="990.31056"
+       id="tspan144589">bereits über das Thema? 
+</tspan><tspan
        x="57.76355"
-       y="1025.5105"
-       style="font-size:32px"
-       id="tspan1171">Zielgruppe bereits über das </tspan><tspan
-       sodipodi:role="line"
+       y="1025.5106"
+       id="tspan144591">Wo/in welchem Setting wird </tspan><tspan
        x="57.76355"
        y="1060.7106"
-       style="font-size:32px"
-       id="tspan1073-9">Thema?</tspan></text>
+       id="tspan144593">der Podcast wahrscheinlich </tspan><tspan
+       x="57.76355"
+       y="1095.9105"
+       id="tspan144595">gehört?</tspan></text>
   <path
      id="path856-0-71-64-4-1-7"
      class="shp4"
-     d="m 38,1120 h 1040.0002 v 320 H 38 Z"
-     style="opacity:0.502;fill:#ffffff;stroke-width:0.867488" />
+     d="m 38,1142 h 1040.0002 v 300 H 38 Z"
+     style="opacity:0.502;fill:#ffffff;stroke-width:0.839942" />
   <ellipse
      style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.48615;stroke-linejoin:round"
      id="path978-0-9"
      cx="103.3654"
-     cy="1185.884"
+     cy="1205.884"
      rx="43.414391"
      ry="43.739998" />
   <text
      xml:space="preserve"
      style="font-size:69.723px;line-height:1.45;font-family:sans-serif;stroke-width:0.726282"
      x="83.394714"
-     y="1204.7533"
+     y="1224.6788"
      id="text982-0-7"
      transform="scale(0.99627096,1.003743)"><tspan
        sodipodi:role="line"
        id="tspan980-6-7"
        x="83.394714"
-       y="1204.7533"
+       y="1224.6788"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:69.723px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.726282">3</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:69.723px;line-height:1.45;font-family:sans-serif;stroke-width:0.726282"
      x="161.84274"
-     y="1206.2324"
+     y="1226.158"
      id="text986-2-9"
      transform="scale(0.99627096,1.003743)"><tspan
        sodipodi:role="line"
        id="tspan984-4-5"
        x="161.84274"
-       y="1206.2324"
+       y="1226.158"
        style="font-size:69.723px;stroke-width:0.726282">Beispiele</tspan></text>
   <rect
-     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.4299;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.32192;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect988-7-3"
-     width="523.87115"
-     height="320"
-     x="556.12903"
-     y="1120" />
+     width="524.02905"
+     height="300.07904"
+     x="558.05005"
+     y="1141.921" />
   <text
      xml:space="preserve"
      style="font-size:31.8807px;line-height:1.1;font-family:sans-serif;stroke-width:0.996271"
      x="55.914257"
-     y="1287.093"
+     y="1307.0186"
      id="text992-4-3"
      transform="scale(0.99627096,1.003743)"><tspan
        sodipodi:role="line"
        x="55.914257"
-       y="1287.093"
+       y="1307.0186"
        style="font-size:31.8807px;stroke-width:0.996271"
-       id="tspan1328">Vorhandene Podcasts, die </tspan><tspan
+       id="tspan127360">Andere (themenfremde) </tspan><tspan
        sodipodi:role="line"
        x="55.914257"
-       y="1322.1617"
+       y="1342.0873"
        style="font-size:31.8807px;stroke-width:0.996271"
-       id="tspan1332">einem selbst gefallen.</tspan><tspan
+       id="tspan127796">Podcasts, die einem selbst </tspan><tspan
        sodipodi:role="line"
        x="55.914257"
-       y="1357.2306"
+       y="1377.1561"
        style="font-size:31.8807px;stroke-width:0.996271"
-       id="tspan1348">Was gefällt daran? </tspan><tspan
+       id="tspan1348">gefallen. Was gefällt daran? </tspan><tspan
        sodipodi:role="line"
        x="55.914257"
-       y="1392.2993"
+       y="1412.2249"
        style="font-size:31.8807px;stroke-width:0.996271"
-       id="tspan1350">Persönlichkeit? Stil?</tspan></text>
+       id="tspan1350">Persönlichkeiten? Stil/Format?</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:21.3333px;line-height:1.45;font-family:sans-serif"

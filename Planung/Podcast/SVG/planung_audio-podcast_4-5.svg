@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 1122.5197 1587.4016"
    width="297mm"
    height="420mm"
    version="1.1"
    id="svg1216"
    sodipodi:docname="planung_audio-podcast_4-5.svg"
-   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
    inkscape:export-filename=""
    inkscape:export-xdpi="39"
-   inkscape:export-ydpi="39">
+   inkscape:export-ydpi="39"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <path
      id="path856-0-71-64-4-4-3"
      class="shp4"
@@ -174,14 +174,16 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="0.5894754"
-     inkscape:cx="211.7317"
-     inkscape:cy="1210.2241"
-     inkscape:window-x="-31"
-     inkscape:window-y="23"
+     inkscape:cx="509.7753"
+     inkscape:cy="770.17633"
+     inkscape:window-x="43"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg1216"
      inkscape:document-rotation="0"
-     showguides="true">
+     showguides="true"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm">
     <inkscape:grid
        type="xygrid"
        id="grid6557" />
@@ -281,7 +283,7 @@
   <text
      xml:space="preserve"
      id="text18303"
-     style="line-height:1.45;font-family:sans-serif;font-size:192px;white-space:pre;shape-inside:url(#rect18305);" />
+     style="line-height:1.45;font-family:sans-serif;font-size:192px;white-space:pre;shape-inside:url(#rect18305)" />
   <circle
      style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.4992;stroke-linejoin:round"
      id="path978"
@@ -324,26 +326,26 @@
      y="524.16455" />
   <text
      xml:space="preserve"
-     style="font-size:30.834px;line-height:1.1;font-family:sans-serif;stroke-width:0.963562"
-     x="705.86023"
-     y="395.97363"
+     style="font-size:26.6667px;line-height:1.1;font-family:sans-serif;white-space:pre;inline-size:448.692;stroke-width:1.0192"
+     x="726.75055"
+     y="366.24542"
      id="text992"
-     transform="scale(0.9635624,1.0378155)"><tspan
-       sodipodi:role="line"
-       x="705.86023"
-       y="395.97363"
-       style="font-size:30.834px;stroke-width:0.963562"
-       id="tspan1073">Wie lang soll der Podcast </tspan><tspan
-       sodipodi:role="line"
-       x="705.86023"
-       y="429.89102"
-       style="font-size:30.834px;stroke-width:0.963562"
-       id="tspan1430">werden? Welchen Inhalt </tspan><tspan
-       sodipodi:role="line"
-       x="705.86023"
-       y="463.80844"
-       style="font-size:30.834px;stroke-width:0.963562"
-       id="tspan1432">soll er vermitteln?</tspan></text>
+     transform="matrix(0.93581812,0,0,1.0685837,8,6)"><tspan
+       x="726.75055"
+       y="366.24542"
+       id="tspan124257">Wie lang soll eine Folge sein? 
+</tspan><tspan
+       x="726.75055"
+       y="395.57881"
+       id="tspan124259">Welcher Inhalt soll vermittelt 
+</tspan><tspan
+       x="726.75055"
+       y="424.91218"
+       id="tspan124261">werden? Wie hängen einzelne 
+</tspan><tspan
+       x="726.75055"
+       y="454.24555"
+       id="tspan124263">Folgen zusammen? </tspan></text>
   <text
      xml:space="preserve"
      style="font-size:192px;line-height:1.45;font-family:sans-serif"
@@ -357,8 +359,8 @@
   <path
      id="path856-0-71-64-4-6"
      class="shp4"
-     d="M 40,925.15534 H 1080 V 1096.9228 H 40 Z"
-     style="opacity:0.502;fill:#ffffff;stroke-width:0.635565" />
+     d="M 40.000019,920.00002 H 1080 V 1131.7675 H 40.000019 Z"
+     style="opacity:0.502;fill:#ffffff;stroke-width:0.705698" />
   <circle
      style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.4992;stroke-linejoin:round"
      id="path978-7"
@@ -403,31 +405,31 @@
      y="1105.0132" />
   <text
      xml:space="preserve"
-     style="font-size:30.834px;line-height:1.1;font-family:sans-serif;stroke-width:0.963562"
-     x="705.86023"
-     y="924.89496"
+     style="font-size:26.6667px;line-height:1.1;font-family:sans-serif;stroke-width:0.963562"
+     x="715.16345"
+     y="927.40704"
      id="text992-4"
      transform="scale(0.9635624,1.0378155)"><tspan
        sodipodi:role="line"
-       x="705.86023"
-       y="924.89496"
-       style="font-size:30.834px;stroke-width:0.963562"
+       x="715.16345"
+       y="927.40704"
+       style="font-size:26.6667px;stroke-width:0.963562"
        id="tspan1507">Welche Musik oder </tspan><tspan
        sodipodi:role="line"
-       x="705.86023"
-       y="958.81238"
-       style="font-size:30.834px;stroke-width:0.963562"
-       id="tspan1509">Effekte könnten passen? </tspan><tspan
+       x="715.16345"
+       y="956.74042"
+       style="font-size:26.6667px;stroke-width:0.963562"
+       id="tspan1509">Soundeffekte könnten </tspan><tspan
        sodipodi:role="line"
-       x="705.86023"
-       y="992.72974"
-       style="font-size:30.834px;stroke-width:0.963562"
-       id="tspan1511">Soll die Musik/der Effekt </tspan><tspan
+       x="715.16345"
+       y="986.07379"
+       style="font-size:26.6667px;stroke-width:0.963562"
+       id="tspan115741">passen? Soll die Musik/der </tspan><tspan
        sodipodi:role="line"
-       x="705.86023"
-       y="1026.6472"
-       style="font-size:30.834px;stroke-width:0.963562"
-       id="tspan1579">einen Zweck erfüllen?</tspan></text>
+       x="715.16345"
+       y="1015.4072"
+       style="font-size:26.6667px;stroke-width:0.963562"
+       id="tspan1579">Effekt einen Zweck erfüllen?</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:192px;line-height:1.45;font-family:sans-serif"
@@ -447,5 +449,5 @@
        sodipodi:role="line"
        id="tspan899"
        x="566.48431"
-       y="1781.6487"></tspan></text>
+       y="1781.6487" /></text>
 </svg>
