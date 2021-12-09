@@ -171,13 +171,13 @@
      inkscape:window-width="1895"
      inkscape:window-height="1018"
      id="namedview1218"
-     showgrid="false"
+     showgrid="true"
      units="mm"
      inkscape:zoom="0.5894754"
-     inkscape:cx="509.7753"
-     inkscape:cy="770.17633"
-     inkscape:window-x="43"
-     inkscape:window-y="25"
+     inkscape:cx="650.57846"
+     inkscape:cy="970.35432"
+     inkscape:window-x="25"
+     inkscape:window-y="23"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg1216"
      inkscape:document-rotation="0"
@@ -274,8 +274,8 @@
   <path
      id="path856-0-71-64-4"
      class="shp4"
-     d="M 40,350 H 1080 V 516.83569 H 40 Z"
-     style="opacity:0.502;fill:#ffffff;stroke-width:0.626374" />
+     d="M 40,340.00001 H 1080 V 516.83569 H 40 Z"
+     style="opacity:0.502;fill:#ffffff;stroke-width:0.644873" />
   <path
      d="m 1040.2775,139.72251 h -7.0277 c -3.8829,0 -7.0278,3.1449 -7.0278,7.02777 v 21.08324 c 0,32.85472 -28.32628,59.21752 -61.83983,55.94953 C 935.17309,220.93254 913.778,194.67511 913.778,165.32988 v -18.5796 c 0,-3.88287 -3.14493,-7.02777 -7.02776,-7.02777 h -7.02775 c -3.88283,0 -7.02777,3.1449 -7.02777,7.02777 v 17.63962 c 0,39.37298 28.09784,74.4722 66.76366,79.80446 v 14.9999 h -24.59712 c -3.88288,0 -7.02778,3.14496 -7.02778,7.02778 v 7.0276 c 0,3.88299 3.1449,7.02778 7.02778,7.02778 h 70.27754 c 3.8828,0 7.0278,-3.14479 7.0278,-7.02778 v -7.0276 c 0,-3.88282 -3.145,-7.02778 -7.0278,-7.02778 h -24.59718 v -14.8328 c 37.64678,-5.16551 66.76358,-37.48001 66.76358,-76.52793 v -21.08325 c 0,-3.88287 -3.145,-7.02777 -7.0277,-7.02777 z M 970,210 c 23.2882,0 42.1666,-18.87828 42.1666,-42.16648 h -37.47997 c -2.5871,0 -4.68663,-1.57247 -4.68663,-3.51389 v -7.02775 c 0,-1.94141 2.09953,-3.51388 4.68663,-3.51388 h 37.47997 v -14.05549 h -37.47997 c -2.5871,0 -4.68663,-1.57247 -4.68663,-3.51389 v -7.02772 c 0,-1.94141 2.09953,-3.5139 4.68663,-3.5139 h 37.47997 v -14.05548 h -37.47997 c -2.5871,0 -4.68663,-1.57247 -4.68663,-3.51388 v -7.02776 c 0,-1.94141 2.09953,-3.51389 4.68663,-3.51389 h 37.47997 c 0,-23.288186 -18.8784,-42.166494 -42.1666,-42.166494 -23.28822,0 -42.16652,18.878308 -42.16652,42.166494 v 70.27753 C 927.83348,191.12172 946.71178,210 970,210 Z"
      id="path17938"
@@ -324,28 +324,6 @@
      height="335.25458"
      x="40.074192"
      y="524.16455" />
-  <text
-     xml:space="preserve"
-     style="font-size:26.6667px;line-height:1.1;font-family:sans-serif;white-space:pre;inline-size:448.692;stroke-width:1.0192"
-     x="726.75055"
-     y="366.24542"
-     id="text992"
-     transform="matrix(0.93581812,0,0,1.0685837,8,6)"><tspan
-       x="726.75055"
-       y="366.24542"
-       id="tspan124257">Wie lang soll eine Folge sein? 
-</tspan><tspan
-       x="726.75055"
-       y="395.57881"
-       id="tspan124259">Welcher Inhalt soll vermittelt 
-</tspan><tspan
-       x="726.75055"
-       y="424.91218"
-       id="tspan124261">werden? Wie hängen einzelne 
-</tspan><tspan
-       x="726.75055"
-       y="454.24555"
-       id="tspan124263">Folgen zusammen? </tspan></text>
   <text
      xml:space="preserve"
      style="font-size:192px;line-height:1.45;font-family:sans-serif"
@@ -405,33 +383,6 @@
      y="1105.0132" />
   <text
      xml:space="preserve"
-     style="font-size:26.6667px;line-height:1.1;font-family:sans-serif;stroke-width:0.963562"
-     x="715.16345"
-     y="927.40704"
-     id="text992-4"
-     transform="scale(0.9635624,1.0378155)"><tspan
-       sodipodi:role="line"
-       x="715.16345"
-       y="927.40704"
-       style="font-size:26.6667px;stroke-width:0.963562"
-       id="tspan1507">Welche Musik oder </tspan><tspan
-       sodipodi:role="line"
-       x="715.16345"
-       y="956.74042"
-       style="font-size:26.6667px;stroke-width:0.963562"
-       id="tspan1509">Soundeffekte könnten </tspan><tspan
-       sodipodi:role="line"
-       x="715.16345"
-       y="986.07379"
-       style="font-size:26.6667px;stroke-width:0.963562"
-       id="tspan115741">passen? Soll die Musik/der </tspan><tspan
-       sodipodi:role="line"
-       x="715.16345"
-       y="1015.4072"
-       style="font-size:26.6667px;stroke-width:0.963562"
-       id="tspan1579">Effekt einen Zweck erfüllen?</tspan></text>
-  <text
-     xml:space="preserve"
      style="font-size:192px;line-height:1.45;font-family:sans-serif"
      x="1388.8398"
      y="515.79095"
@@ -450,4 +401,56 @@
        id="tspan899"
        x="566.48431"
        y="1781.6487" /></text>
+  <text
+     xml:space="preserve"
+     style="font-size:26.6667px;line-height:1.45;font-family:sans-serif"
+     x="676.08734"
+     y="383.39175"
+     id="text8604"><tspan
+       sodipodi:role="line"
+       id="tspan8602"
+       x="676.08734"
+       y="383.39175"
+       style="font-size:26.6667px">Wie lang soll eine Folge sein? </tspan><tspan
+       sodipodi:role="line"
+       x="676.08734"
+       y="422.05847"
+       id="tspan8606"
+       style="font-size:26.6667px">Welcher Inhalt soll vermittelt </tspan><tspan
+       sodipodi:role="line"
+       x="676.08734"
+       y="460.72519"
+       id="tspan8608"
+       style="font-size:26.6667px">werden? Wie hängen einzelne </tspan><tspan
+       sodipodi:role="line"
+       x="676.08734"
+       y="499.39191"
+       id="tspan8610"
+       style="font-size:26.6667px">Folgen zusammen? </tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:26.6667px;line-height:1.45;font-family:sans-serif"
+     x="678.26587"
+     y="962.7829"
+     id="text13332"><tspan
+       sodipodi:role="line"
+       id="tspan13330"
+       x="678.26587"
+       y="962.7829"
+       style="font-size:26.6667px">Welche Musik oder </tspan><tspan
+       sodipodi:role="line"
+       x="678.26587"
+       y="1001.4496"
+       id="tspan13334"
+       style="font-size:26.6667px">Soundeffekte könnten </tspan><tspan
+       sodipodi:role="line"
+       x="678.26587"
+       y="1040.1163"
+       id="tspan13336"
+       style="font-size:26.6667px">passen? Soll die Musik/der </tspan><tspan
+       sodipodi:role="line"
+       x="678.26587"
+       y="1078.7831"
+       id="tspan13338"
+       style="font-size:26.6667px">Effekt einen Zweck erfüllen?</tspan></text>
 </svg>
